@@ -1,0 +1,6 @@
+{
+  "instagram_api_url": "https://api.instagram.com/v1",
+  "instagram_client_id": "change_me",
+  "image_save_location": "/Users/maria/Downloads/instagram_download",
+  "temp_dir": "/tmp"
+}
