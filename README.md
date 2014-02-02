@@ -16,11 +16,11 @@ How to use it
 2. Copy config.json.template to config.json and update the values.
 3. Run it by running the following command:
 
-> scripts/dl.rb <instagram username>
+`scripts/dl.rb <instagram username>`
 
 or
 
-> ruby scripts/dl.rb <instagram username>
+`ruby scripts/dl.rb <instagram username>`
 
 Improvements I want to make
 ---------------------------
